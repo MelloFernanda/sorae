@@ -45,6 +45,7 @@
 ### Tecnologias usadas:
 - Java;
 - Ecossistema Spring;
+- BootStrap;
 - JavaScript.
 
 ### Como testar o projeto?
